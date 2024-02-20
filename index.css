@@ -1,0 +1,156 @@
+
+.card{
+  padding:20px 
+}
+
+
+/* first card */
+
+.green-card{
+    background-color:rgb(33, 234, 133);
+    padding:60px;
+    height:350px;
+    width: 430px;
+    border-radius:20px;
+    font-weight:bold;
+    margin-bottom:50px;
+}
+
+
+.g-btn{
+    border:none;
+    border-radius:20px;
+    padding:15px;
+    font-size: 20px;
+    font-weight:bold;
+    width:250px
+}
+.head{
+    font-size:50px;
+}
+
+/* second card */
+
+.container{
+    width: 550px;
+    margin-bottom:50px;
+}
+
+.sub-container{
+    border:2px solid rgb(173, 155, 155);
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+    border-bottom:none;
+    padding:20px;
+    font-family:"Roboto";
+
+}
+
+
+.text{
+    color:rgb(75, 45, 36);
+    font-size:20px;
+}
+
+.circle{
+    border-radius:100%;
+    padding:25px;
+    height:90px;
+}
+
+
+.c-two{
+    color:blue;
+    border:1px solid gray;
+    padding:0px 20px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px ;
+}
+
+
+
+/* third card */
+
+.image-card{
+    border:1px solid gray;
+    width: 550px;
+    border-radius:10px; 
+    
+}
+
+.img{
+    width:100%;
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+}    
+
+.img-inner-card{
+    padding:20px;
+}
+
+.details{
+    color:blue;
+    border: 1px solid rgb(66, 62, 62);
+    padding:0px 15px;
+    width:90px;
+    border-radius:5px;
+    text-align: center;
+}
+
+.icon{
+    height:30px;
+    margin-right:20px;
+}
+.display{
+    display:flex;
+    align-items: center;
+    
+}
+
+/* login  section */
+
+.login-card{
+    text-align:center;
+}
+
+.input{
+    height:30px;
+    width:200px;
+    padding:3px 20px;
+    border-radius: 8px;
+    border-color:rgb(197, 221, 221);
+    margin-bottom:10px;
+    color:rgb(0, 0, 0);
+    font-weight:500;
+}
+
+
+span{
+    text-decoration:underline;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 13px;
+}
+
+.sign-up{
+    margin-bottom:-10px;
+    color:rgb(168, 166, 164);
+    font-size:10px;
+}
+
+.login-btn{
+    background-color:black;
+    color:aliceblue;
+    height:40px;
+    padding:0px 30px;
+    border-radius:20px;
+    margin-top:10px;
+}
+
+.main-head{
+    font-size:50px;
+    margin-bottom: 0px;
+}
+
